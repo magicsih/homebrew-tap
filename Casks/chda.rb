@@ -2,7 +2,7 @@
 # template the release workflow fills in (version and sha256).
 cask "chda" do
   version "0.1.0"
-  sha256 ""
+  sha256 "276b5f5b5f2164f5ef903a214010f5ff6cf8756225bf15793ae58e3050b1626d"
 
   url "https://github.com/magicsih/chda/releases/download/v#{version}/chda-#{version}-macos-arm64.zip"
   name "chda"
