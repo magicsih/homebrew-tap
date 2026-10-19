@@ -1,10 +1,10 @@
 cask "leaflit" do
-  version "0.2.0"
-  sha256 "2289bb755734ea82bc10e41def7c6f11675f835a60fc8244d8af007e4c50a812"
+  version "0.3.0"
+  sha256 "1735b01cdd702be50c8f1275bccdf235e7d2fd25c1c1640456e92a990f22d418"
 
   url "https://github.com/magicsih/leaflit/releases/download/v#{version}/Leaflit-#{version}-macos-arm64.zip"
   name "Leaflit"
-  desc "Read-only Markdown viewer with offline diagrams and math"
+  desc "Read-first Markdown viewer with explicit source editing"
   homepage "https://github.com/magicsih/leaflit"
 
   depends_on arch: :arm64
