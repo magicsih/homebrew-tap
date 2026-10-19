@@ -1,6 +1,6 @@
 cask "leaflit" do
-  version "0.1.0"
-  sha256 "0fbbdf417f32d49ee62553cd358dfae50b447eb89f187e49b2c9c198c627318d"
+  version "0.2.0"
+  sha256 "2289bb755734ea82bc10e41def7c6f11675f835a60fc8244d8af007e4c50a812"
 
   url "https://github.com/magicsih/leaflit/releases/download/v#{version}/Leaflit-#{version}-macos-arm64.zip"
   name "Leaflit"
