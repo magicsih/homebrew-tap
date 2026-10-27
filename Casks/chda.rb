@@ -1,8 +1,8 @@
 # Homebrew cask for chda. Lives in the tap repository; this copy is the
 # template the release workflow fills in (version and sha256).
 cask "chda" do
-  version "1.5.2"
-  sha256 "bdecf6850f9eaab68d434ec74ba9737f3382669d66b94f1a8e3314b7113e751d"
+  version "1.6.1"
+  sha256 "c798ee9a160857be49aa27eacae97984d1764661617a2b9743b5b3e1d63d0885"
 
   url "https://github.com/magicsih/chda/releases/download/v#{version}/chda-#{version}-macos-universal.zip"
   name "chda"
