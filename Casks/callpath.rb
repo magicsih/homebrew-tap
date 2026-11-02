@@ -1,6 +1,6 @@
 cask "callpath" do
-  version "0.1.0"
-  sha256 "1804873e40995899cefeca0001656dbb48d7c2f92d0bbcbe84af44f1e5b59b4c"
+  version "0.1.1"
+  sha256 "95e69a08059cce10c6203d976760a027369670055958305a92ec70b914897c77"
 
   url "https://github.com/magicsih/callpath/releases/download/v#{version}/Callpath-#{version}-macos-universal.zip"
   name "Callpath"
